@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kk.com" resolutions="1x" timestamp="1633090575862">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kk.com" resolutions="1x" timestamp="1633091272511">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="freedom.css" crc="3844240732" ref="freedom"/>
@@ -12,7 +12,7 @@
     <file name="hush.css" crc="241601175" ref="hush"/>
     <file name="waitforthelight.css" crc="4104594514" ref="waitforthelight"/>
     <file name="forelise.css" crc="85407305" ref="forelise"/>
-    <file name="illustration.css" crc="511972705" ref="illustration"/>
+    <file name="illustration.css" crc="4029520178" ref="illustration"/>
     <file name="installation.css" crc="3982070537" ref="installation"/>
     <file name="photo.css" crc="3762572350" ref="photo"/>
   </folder>
@@ -359,23 +359,10 @@
     <file name="壽司2.jpg" crc="176987056" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="road.gif" crc="171975018" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-      <caption webpage="illustration" alt=""/>
-    </file>
     <file name="illustration (2).png" crc="4153718836" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="壽司2-crop-u7174.jpg" crc="3859799521" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-    </file>
-    <file name="ship.gif" crc="535941584" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-    </file>
-    <file name="bug.gif" crc="3978860432" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-    </file>
-    <file name="girl.gif" crc="3783182501" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="天黑黑_單張無字-crop-u2932.jpg" crc="4098674017" seo="true" ref="index">
@@ -545,7 +532,7 @@
   <file name="shadow-show.html" crc="4279621461" seo="true" mt="1633089914502" redirect="true"/>
   <file name="forelise.html" crc="3787240846" seo="true" mt="1633089867822" redirect="true"/>
   <file name="waitforthelight.html" crc="4281493809" seo="true" mt="1633089889938" redirect="true"/>
-  <file name="illustration.html" crc="150544154" seo="true" mt="1633090543569" redirect="true"/>
+  <file name="illustration.html" crc="4157257405" seo="true" mt="1633091250762" redirect="true"/>
   <file name="photo.html" crc="470826024" seo="true" mt="1633090215685" redirect="true"/>
   <file name="installation.html" crc="485112121" seo="true" mt="1633090219968" redirect="true"/>
 </manifest>
