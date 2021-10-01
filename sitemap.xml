@@ -6,55 +6,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://kk.com/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://kk.com/images/img_6411-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/aaa4394x222.jpg</image:loc>
+      <image:loc>http://kk.com/images/022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/line_154193398601899.jpg</image:loc>
+      <image:loc>http://kk.com/images/illustration%20(2)-crop-u4502.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/img_6411-2394x263.jpg</image:loc>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E5%96%AE%E5%BC%B5%E7%84%A1%E5%AD%97-crop-u2932.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/4516x774.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://kk.com/photography.html</loc>
-    <lastmod>2021-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://kk.com/eclipse.html</loc>
-    <lastmod>2021-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kk.com/images/01.jpg</image:loc>
+      <image:loc>http://kk.com/images/4353x529.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/img_9911.jpg</image:loc>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(4).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/03.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/04.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/img_6408.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/img_6411-2917x612.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/img_6409.jpg</image:loc>
+      <image:loc>http://kk.com/images/img_6411-2739x493.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -62,6 +35,24 @@
     <lastmod>2021-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/aaa1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2011.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_0.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/for%20elise_0.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/for%20elise_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kk.com/contact.html</loc>
@@ -87,10 +78,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kk.com/images/7300x200.jpg</image:loc>
+      <image:loc>http://kk.com/images/6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/1300x451.jpg</image:loc>
+      <image:loc>http://kk.com/images/7300x200.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/4300x451.jpg</image:loc>
@@ -100,9 +91,6 @@
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/10-crop-u4769.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/1300x451-crop-u4869.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/2-crop-u4889.jpg</image:loc>
@@ -139,6 +127,12 @@
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/12300x200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/1300x450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/1-crop-u4869.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -234,10 +228,10 @@
       <image:loc>http://kk.com/images/021.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/022.jpg</image:loc>
+      <image:loc>http://kk.com/images/023.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/023.jpg</image:loc>
+      <image:loc>http://kk.com/images/0222.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -273,10 +267,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kk.com/images/%E9%96%8B%E9%A0%AD1920.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/001%E6%B5%B7%E5%A0%B1300x423.jpg</image:loc>
+      <image:loc>http://kk.com/images/%E9%96%8B%E9%A0%AD1920-crop-u5204.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -288,7 +279,190 @@
       <image:loc>http://kk.com/images/mvi_0561%2003.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/mvi_0561%2011.jpg</image:loc>
+      <image:loc>http://kk.com/images/mvi_0561%20112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2018.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2026.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2035.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2042.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/mvi_0561%2049.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kk.com/forelise.html</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(1)-crop-u7602.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(2)-crop-u7421.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(3)-crop-u7428.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E6%8F%92%E5%9C%961%20(3)-crop-u7495.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(4).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(5)-crop-u7442.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(6)-crop-u7449.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E8%A8%AD%E5%AE%9A%20(7)-crop-u7456.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E6%8F%92%E5%9C%961%20(2)-crop-u7483.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E6%8F%92%E5%9C%961%20(1)-crop-u7505.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(1)-crop-u7253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(2)-crop-u7313.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(4)457x257.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(5).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/forelise_%E5%8A%87%E7%85%A7%20(6).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/for%20elise_12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/for%20elise_02.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kk.com/waitforthelight.html</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91-crop-u7700.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(4).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(5).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(6).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_%E6%88%AA%E5%9C%96%20(3)-crop-u7772.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A4%A9%E9%BB%91%E9%BB%91_02.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kk.com/illustration.html</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/illustration%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A3%BD%E5%8F%B82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/road.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/illustration%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/%E5%A3%BD%E5%8F%B82-crop-u7174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/ship.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/bug.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/girl.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kk.com/photo.html</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kk.com/installation.html</loc>
+    <lastmod>2021-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/img_9911.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/img_6408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/img_6409.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/img_6411-2920x614.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
